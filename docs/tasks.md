@@ -19,7 +19,9 @@ Sinta-se à vontade para contribuir com o que preferir!
 
 * [ ] Reajustar o design do `<header>` nas páginas de *login* e *register*.
 
-* [ ] Remover da interface a área (seção) que exibe o histórico de senhas.
+* [ ] Ajustar o botão de `+` na página *`register.html`*.
+
+* [ ] Remover o *timestamp* das senhas, não faz sentido exibi-los por hora.
 
 <h2 align="center"><code>front/features</code></h2>
 
