@@ -15,7 +15,7 @@ router.get('/users/:id', UsersController.getUser);
 router.get('/users/:id/passwords', UsersController.getAllPasswordsFrom);
 router.get('/users/:userId/passwords/:passId', UsersController.getPasswordFrom);
 
-router.put('/users/:id', validateUser, UsersController.updateUser);
+// router.put('/users/:id', validateUser, UsersController.updateUser);
 router.put('/users/:userId/passwords/:passId', validatePassword, UsersController.updatePasswordFrom);
 
 router.delete('/users/:id', UsersController.deleteUser);
