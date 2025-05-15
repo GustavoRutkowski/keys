@@ -21,8 +21,6 @@ Sinta-se à vontade para contribuir com o que preferir!
 
 * [ ] Ajustar o botão de `+` na página *`register.html`*.
 
-* [ ] Remover o *timestamp* das senhas, não faz sentido exibi-los por hora.
-
 <h2 align="center"><code>front/features</code></h2>
 
 * [ ] Implementar as features de *login*/*logout* do usuário.
