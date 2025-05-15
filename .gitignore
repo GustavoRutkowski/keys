@@ -1,0 +1,6 @@
+/node_modules
+src/frontend/public/js
+src/frontend/public/css
+src/.env
+package-lock.json
+/ignore
